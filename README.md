@@ -6,6 +6,8 @@ The purpose of the code is to merge country-year level gender inequality data fo
 
 ## Transformation goal
 ![Original format](original_format.png)
+
+
 ![Original format](transformed_format.png)
 
 ## data_transform_merge.do
