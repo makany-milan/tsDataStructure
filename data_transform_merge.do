@@ -11,9 +11,11 @@ Notes:
 		- Most of the data is from advanced economies where data is readily available.
 		- Assumption: No large swings in gender inequality over less than a decade.
 		- Art fair data available from 2016 onwards.
+	- Wherever linear interpolation fails, using nearest value.
+	- Interpolation most important for period 2013-2021
 Two unique CSV files:
 	- overall.csv and gii.csv
-	- other files follow the same logic
+	- other files follow the same logic (ILOSTAT data)
 */
 
 * Install interpolation module
